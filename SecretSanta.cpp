@@ -49,7 +49,7 @@ int main()
     secretP[1] = "Riley";
     secretP[2] = "Jaron";
     secretP[3] = "Morgan";
-    secretP[4] = "Jusin";
+    secretP[4] = "Sustin";
     secretP[5] = "Blake";
     secretP[6] = "Matthew";
     secretP[7] = "Wiggy";
@@ -66,7 +66,7 @@ int main()
     secretT[1] = "Riley";
     secretT[2] = "Jaron";
     secretT[3] = "Morgan";
-    secretT[4] = "Jusin";
+    secretT[4] = "Susin";
     secretT[5] = "Blake";
     secretT[6] = "Matthew";
     secretT[7] = "Wiggy";
